@@ -1,5 +1,0 @@
-server:
-  port: 8844
-spring:
-  application:
-    name: com-boot-docker
